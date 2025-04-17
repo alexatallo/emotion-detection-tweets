@@ -49,9 +49,8 @@ We experimented with all three approaches—Naive Bayes, Logistic Regression, an
 
 ## 🎥 Demo Video
 
-Experience Emotion Sense in action:
-
-(https://youtu.be/ifvlHzxynIc?si=eFmWFk5BtRVpuVdB)
+Experience Emotion Sense in action:  
+🔗 [Watch the demo on YouTube](https://youtu.be/ifvlHzxynIc?si=eFmWFk5BtRVpuVdB) 
 
 ---
 
