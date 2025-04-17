@@ -58,7 +58,7 @@ Experience Emotion Sense in action:
 
 To run the app locally:
 
-Note: The Twitter Bearer Token has been removed for security reasons. 
+  Note: The Twitter Bearer Token has been removed for security reasons. 
 
 ```bash
 git clone https://github.com/alexatallo/emotion-detection-tweets.git
