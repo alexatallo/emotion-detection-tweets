@@ -11,9 +11,7 @@
 
 **Emotion Sense** is a multilingual web application designed to detect emotions in tweets in real time. Built with Streamlit, the app allows users to input a tweet URL or plain text and receive predictions of emotional labels using models trained on the SemEval-2018 Task 1: Affect in Tweets dataset.
 
-Our system supports both **English** and **Spanish** tweets and includes the following models:
-- Naive Bayes (English)
-- Logistic Regression (English)
+Our system supports both **English** and **Spanish** tweets and includes the following models
 - CNN (English)
 - CNN (Spanish)
 
