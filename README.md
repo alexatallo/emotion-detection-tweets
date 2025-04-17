@@ -15,7 +15,7 @@ Our system supports both **English** and **Spanish** tweets and includes the fol
 - CNN (English)
 - CNN (Spanish)
 
-We experimented with various models and found that the **Convolutional Neural Network (CNN)** delivered the best performance, particularly in detecting nuanced and rare emotions. As a result, **we selected the CNN as the final deployed model** in the application.
+We experimented with various models and found that the **Convolutional Neural Network (CNN)** delivered the best performance, particularly in detecting rare emotions. As a result, **we selected the CNN as the final deployed model** in the application.
 
 ---
 
