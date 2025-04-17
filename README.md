@@ -2,8 +2,7 @@
 
 **Team Members:** Alexa Tallo, Crystal Shamo, and Miray Noeel  
 **Course:** CSI 5130 – Artificial Intelligence  
-**Instructor:** Dr. Tianle Ma  
-**Date:** April 13, 2025
+**Instructor:** Dr. Tianle Ma 
 
 ---
 
