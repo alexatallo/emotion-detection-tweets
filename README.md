@@ -63,5 +63,6 @@ git clone https://github.com/alexatallo/emotion-detection-tweets.git
 cd emotion-sense
 pip install -r requirements.txt
 streamlit run app.py
+```bash
 
 Note: The Twitter Bearer Token has been removed for security reasons.
